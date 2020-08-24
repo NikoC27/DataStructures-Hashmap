@@ -90,7 +90,7 @@ public:
 	}
 	
 	//
-	// Equals operator
+	// Equal operator
 	// 
 	hashmap& operator=(const hashmap&other)
 	{ 
